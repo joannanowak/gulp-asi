@@ -1,0 +1,25 @@
+{
+  "name": "gulp-asi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joannanowak/gulp-asi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joannanowak/gulp-asi/issues"
+  },
+  "homepage": "https://github.com/joannanowak/gulp-asi#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-sass": "^3.0.0"
+  }
+}

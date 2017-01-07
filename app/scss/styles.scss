@@ -1,0 +1,18 @@
+@import "zmienne";
+@import "mixin";
+
+body{
+	color: $base-color;
+	background-color: $bg-color;
+}
+
+#lista {
+	ul {
+		@include element-list;
+	}
+	li{
+		border: $c-border;
+		
+	}
+	
+}

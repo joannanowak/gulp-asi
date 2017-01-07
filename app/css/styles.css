@@ -1,0 +1,11 @@
+body {
+  color: #220000;
+  background-color: orange; }
+
+#lista ul {
+  margin-left: 50px;
+  list-style-type: lower-alpha;
+  border: 3px solid white; }
+
+#lista li {
+  border: 3px solid white; }
