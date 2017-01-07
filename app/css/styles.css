@@ -1,16 +1,16 @@
 body {
-  color: #220000;
-  background-color: orange; }
+  color: aquamarine;
+  background-color: black; }
 
 #lista ul {
   margin-left: 50px;
   list-style-type: lower-alpha;
-  border: 3px solid white; }
+  border: 1px solid white; }
 
 #lista li {
-  border: 3px solid white; }
+  border: 1px solid white; }
 
 .technologies li {
   margin-left: 50px;
   list-style-type: lower-alpha;
-  border: 3px solid white; }
+  border: 1px solid white; }
