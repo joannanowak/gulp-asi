@@ -9,3 +9,8 @@ body {
 
 #lista li {
   border: 3px solid white; }
+
+.technologies li {
+  margin-left: 50px;
+  list-style-type: lower-alpha;
+  border: 3px solid white; }

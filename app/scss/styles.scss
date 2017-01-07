@@ -16,3 +16,8 @@ body{
 	}
 	
 }
+.technologies{
+	li{
+		@include element-list;
+	}
+}
